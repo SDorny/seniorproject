@@ -27,9 +27,10 @@ This project migrates data from an on-prem SQL Server to Databricks, enabling ad
 │
 ├── guide.md                   # Step-by-step guide on running the pipeline
 ├── README.md
+```
 
 ## Additional Documentation
-For detailed step-by-step instructions, check guide.md.
+For detailed step-by-step instructions, check guide.md.  
 
 Author: Sarah Dorny
 📅 Project Start Date: 2025-02-10
