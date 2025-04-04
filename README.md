@@ -12,7 +12,7 @@ This project migrates data from an on-prem SQL Server to the cloud, enabling adv
 - **Databricks** – Managed data processing (Bronze, Silver, Gold tables)
 - **Azure Key Vault** – Secure credentials and secrets management
 
-  ## More Information
-  Check out my blog post: https://sdorny.github.io/myblog/posts/project_overview/
+## More Information
+Check out my blog post: https://sdorny.github.io/myblog/posts/project_overview/
 
 Author: Sarah Dorny
