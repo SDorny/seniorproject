@@ -4,10 +4,6 @@
 
 This project migrates data from an on-prem SQL Server to the cloud, enabling advanced data transformations and analytics. The processed data is visualized in Power BI to support business insights.
 
-## Architecture Workflow
-
-![Senior Project Workflow](https://github.com/user-attachments/assets/f57dd6ad-2bd2-43e2-8d16-a736afbca362)
-
 ## Tools & Technologies Used
 
 - **On-Prem SQL Server** – Source database
@@ -16,6 +12,7 @@ This project migrates data from an on-prem SQL Server to the cloud, enabling adv
 - **Databricks** – Managed data processing (Bronze, Silver, Gold tables)
 - **Azure Key Vault** – Secure credentials and secrets management
 
-  
+  ## More Information
+  Check out my blog post: https://sdorny.github.io/myblog/posts/project_overview/
 
 Author: Sarah Dorny
